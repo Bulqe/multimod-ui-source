@@ -1,13 +1,7 @@
-MultiMod UI
+MultiMod UI Source
 
-Menu layouts and the animated Superpowers reveal for CS2 MultiMod.
+Layouts, styles and icons for MultiMod menus, including the nine-power Superpowers reveal.
 
-Download the source bundle from Releases. Extract the ZIP and follow its README.md
-to build the UI with CS2 Workshop Tools. Checksums are in SHA256SUMS.txt.
+Integration by Bulqe. Original CS2Menus project: FemboyKZ/mm-cs2menus, with menu layout origins credited to zer0.k and cs2kz-metamod. Original notices and the AGPL-3.0 license are included.
 
-Credits
-Based on CS2Menus Workshop UI: https://github.com/FemboyKZ/mm-cs2menus
-Original layouts: cs2kz-metamod Workshop UI by zer0.k.
-MultiMod integration and Superpowers reveal: Bulqe.
-
-Licensed under AGPL-3.0. See LICENSE and the notices in the source bundle.
+Extract multimod-ui-source-bunny-hop-20261025.zip and read README.md for the Windows CS2 Workshop Tools build instructions. SHA256SUMS.txt identifies this source snapshot; checksums are not signatures.
