@@ -1,7 +1,8 @@
-MultiMod UI Source
+MultiMod UI Assets
 
-Layouts, styles and icons for MultiMod menus, including the nine-power Superpowers reveal.
+Editable menu layouts, styles, icons and Superpowers reveal animations for the
+matching MultiMod UI asset pack. Build instructions are inside the source ZIP.
 
-Integration by Bulqe. Original CS2Menus project: FemboyKZ/mm-cs2menus, with menu layout origins credited to zer0.k and cs2kz-metamod. Original notices and the AGPL-3.0 license are included.
-
-Extract multimod-ui-source-bunny-hop-20261025.zip and read README.md for the Windows CS2 Workshop Tools build instructions. SHA256SUMS.txt identifies this source snapshot; checksums are not signatures.
+Integration by Bulqe. Original CS2Menus assets and tools by FemboyKZ/mm-cs2menus,
+with original menu-layout credit to zer0.k and cs2kz-metamod. The source bundle
+preserves the original notices and AGPL-3.0 license.
